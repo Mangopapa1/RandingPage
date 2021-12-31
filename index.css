@@ -1,5 +1,6 @@
 header {
-    background-color: #F2E9D8;
+    background:no-repeat bottom -70px right 30px url(/img/mango.PNG) ,#F2E9D8;
+    background-size: 350px 500px;
 }
 
 .top-head {
@@ -71,3 +72,10 @@ header {
     line-height: 20px;
     color:#ffffff;
 }
+/* .img-box {
+    border: 1px solid black;
+    position: absolute;
+    top: 220px;
+    right: 50px;
+    width: 330px;
+} */
